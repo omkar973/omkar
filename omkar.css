@@ -1,0 +1,9 @@
+<style>
+  button {
+    background-color: green;
+    color: white;
+    padding: 8px;
+  }
+</style>
+
+<button>Click Me</button>
